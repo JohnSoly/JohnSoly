@@ -1,4 +1,4 @@
-Hi there, I'm John Soly! 👋
+
 
 # Hi there, I'm John Soly! 👋
 
