@@ -29,8 +29,6 @@ I’m a final-year Computer Engineering student passionate about backend develop
 
 🚀 Open to internships and job opportunities in Java backend development!
 
----
 
-⭐ **Fun Fact:** I love football & coffee chats! ☕⚽
 
 
