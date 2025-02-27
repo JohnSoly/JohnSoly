@@ -13,6 +13,7 @@ I’m a final-year Computer Engineering student passionate about backend develop
 - **Frontend:** React.js
 - **Database:** PostgreSQL, MongoDB
 - **DevOps & Tools:** Git, Docker, Postman, Linux
+- **Other Skills:** OOP,Data Structures & Algorithms ,Problem Solving ,Design Patterns
 
 ---
 
