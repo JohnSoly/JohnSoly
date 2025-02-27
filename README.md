@@ -28,7 +28,7 @@ I’m a final-year Computer Engineering student passionate about backend develop
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/john-soly-7473812b9/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your.johns0lyy@gmail.com)  
 
-🚀 Open to internships and job opportunities in Java backend development!
+🚀 Open to internships and job opportunities in software engineering!
 
 
 
