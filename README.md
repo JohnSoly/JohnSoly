@@ -22,7 +22,6 @@ I’m a final-year Computer Engineering student passionate about backend develop
 🔹 [Car Rental Web Service](https://github.com/JohnSoly/Car_Rental-Webservice) - A web service for managing car rentals, built using django,python.  
 🔹 [Circus of Plates](https://github.com/JohnSoly/Circus-Of-Plates-) - A Java-based game implementing object-oriented design principles.  
 🔹 [Mini Shell](https://github.com/JohnSoly/Mini-Shell) - A lightweight shell implementation in C.
-
 🔹 [MapReduce in Go](https://github.com/JohnSoly/mapreduce-go) - A fault-tolerant MapReduce framework in Go with distributed worker management.  
 
 
