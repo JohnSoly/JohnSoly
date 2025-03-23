@@ -2,7 +2,7 @@
 
 # Hi there, I'm John Soly! 👋
 
- 🚀 Software Engineer | Java Backend Developer | Spring Boot Enthusiast
+ 🚀 Software Engineer | Java Backend Developer 
 
 I’m a final-year Computer Engineering student passionate about backend development, system design, and problem-solving. I specialize in building scalable and efficient backend systems using **Java**, **Spring Boot**.
 
