@@ -2,18 +2,13 @@
 
 # Hi there, I'm John Soly! 👋
 
- 🚀 Software Engineer | Java Backend Developer 
-
-I’m a final-year Computer Engineering student passionate about backend development, system design, and problem-solving. I specialize in building scalable and efficient backend systems using **Java**, **Spring Boot**.
-
----
-
+ 🚀 Software Engineer 
 ### 🔥 Technologies & Tools
 - **Backend:** Java, Spring Boot, REST APIs.
 - **Frontend:** React.js
 - **Database:** PostgreSQL, MongoDB
 - **DevOps & Tools:** Git, Docker, Postman, Linux
-- **Other Skills:** OOP,Data Structures & Algorithms ,Problem Solving ,Design Patterns
+- **Other Skills:** C++,OOP,Data Structures & Algorithms ,Problem Solving ,Design Patterns
 
 ---
 
